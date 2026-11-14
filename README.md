@@ -7,7 +7,7 @@
 📍 Águas Claras/DF · disponível para remoto, híbrido e viagens
 
 <a href="https://www.linkedin.com/in/kleberalv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:kleberjuniorr63@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="mailto:kleberalvesdf@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 <a href="https://wa.me/+5561991252701" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 </div>
@@ -73,6 +73,6 @@ Sistema de supervisão avançada **SUPRA-DNIT** (CodeIgniter e JavaScript). Dese
 
 **Tem um projeto ou uma vaga em que eu possa contribuir? Vamos conversar.**
 
-<a href="https://www.linkedin.com/in/kleberalv" target="_blank">LinkedIn</a> · <a href="mailto:kleberjuniorr63@gmail.com">kleberjuniorr63@gmail.com</a> · <a href="https://wa.me/+5561991252701" target="_blank">WhatsApp</a>
+<a href="https://www.linkedin.com/in/kleberalv" target="_blank">LinkedIn</a> · <a href="mailto:kleberalvesdf@gmail.com">kleberalvesdf@gmail.com</a> · <a href="https://wa.me/+5561991252701" target="_blank">WhatsApp</a>
 
 </div>
